@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/wtsh0/second-node/issues"
   },
-  "homepage": "https://github.com/wtsh0/second-node#readme"
+  "homepage": "https://github.com/wtsh0/second-node#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
